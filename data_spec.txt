@@ -1,0 +1,30 @@
+* Data from 27 teams
+* Data from 2013 onwards
+* Data from regular seasson
+* Data split by teams and seasons
+* Data not normalized
+
+xGoals:
+** Players:
+-- By patterns of play:
+(1) players_xG1 open play (fastbreak + regular), (2) players_xG2 fastbreak, (3) players_xG3 regular, (4) players_xG4 set piece (corner + free kick + penalty + others), (5) players_xG5 corner, (6) players_xG6 free kick, (7) players_xG7 penalty
+** Teams
+(1) teams_xG1 open play (fastbreak + regular), (2) teams_xG2 fastbreak, (3) teams_xG3 regular, (4) teams_xG4 set piece (corner + free kick + penalty + others), (5) teams_xG5 corner, (6) teams_xG6 free kick, (7) teams_xG7 penalty
+** Games
+(1) games_xG
+
+xPass:
+** Players:
+(1) players_xP1 passing third all (defensive, middle, attacking), (2) players_xP2 passing third defensive and middle, (3) players_xP3 passing third middle and attacking, (4) players_xP4 passing third defensive, (5) players_xP5 passing third middle, (6) players_xP6 passing third attacking
+** Teams
+(1) teams_xP1 passing third all (defensive, middle, attacking), (2) teams_xP2 passing third defensive and middle, (3) teams_xP3 passing third middle and attacking, (4) teams_xP4 passing third defensive, (5) teams_xP5 passing third middle, (6) teams_xP6 passing third attacking
+
+Goals Added (g+):
+** Players
+(1) players_g1 2020, (2) players_g2 2019, (3) players_g3 2018, (4) players_g4 2017, (5) players_g5 2016, (6) players_g6 2015, (7) players_g7 2014, (8) players_g8 2013
+
+Salaries:
+** Players
+(1) players_salaries
+** Teams
+(1) teams_salaries
